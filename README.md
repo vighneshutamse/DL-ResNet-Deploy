@@ -1,2 +1,2 @@
 # DL-ResNet-Deploy
-Deploying ResNet Model
+Deploying ResNet-18 Model
